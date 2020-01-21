@@ -1,3 +1,6 @@
+![download](/images/screen.jpg)
+
+
 For build DangerWallet need to install:
  
 1. Java 7 or up
