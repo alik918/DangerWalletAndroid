@@ -1,6 +1,4 @@
-![ƀ](/images/screen.png)  ![ƀ](/images/screen2.png)  ![ƀ](/images/screen3.png)
-
-![ƀ](/images/screen4.png)   ![ƀ](/images/screen5.png)
+![ƀ](/images/screen.png)  ![ƀ](/images/screen2.png)  ![ƀ](/images/screen3.png) ![ƀ](/images/screen4.png)   ![ƀ](/images/screen5.png)
 
 
 For build DangerWallet need to install:
