@@ -64,15 +64,16 @@ static const char *dns_seeds[] = {
 // blockchain checkpoints - these are also used as starting points for partial chain downloads, so they need to be at
 // difficulty transition boundaries in order to verify the block difficulty at the immediately following transition
 static const struct { uint32_t height; const char *hash; uint32_t timestamp; uint32_t target; } checkpoint_array[] = {
-           {   0, "00000a237b793f047e553def81077e61d79655fdaf51888d0fb9ca65d84061b2", 1575892800, 0x1e0ffff0 }
+           {   0, "00000a237b793f047e553def81077e61d79655fdaf51888d0fb9ca65d84061b2", 1575892800, 0x1e0ffff0 },
  //         { 6666, "00000000d13b24d4dc2dcfd4d4e7fae58d2f7299f9ea335a44bb82991691e951", 1576580286, 0x1d00f06f },
  //        { 28500, "0000000018399a820cff108f994d0c6da36c4249d85caea841866816cf7ffa06", 1578655751, 0x1c42b7ba },
- //        { 37022, "0000000024ff4bca5af3cf715371f041ae5dfb9ab24b96d8945fdf65dea3ac2e", 1579462660, 0x1d0083de }
+         { 37022, "0000000024ff4bca5af3cf715371f041ae5dfb9ab24b96d8945fdf65dea3ac2e", 1579462660, 0x1d0083de }
 };
 
 static const char *dns_seeds[] = {
         "18.194.135.201", "185.255.134.243", "3.220.244.148", 
-        "147.78.65.225", "185.189.13.35", "185.195.25.183"
+        "147.78.65.225", "185.189.13.35", "185.195.25.183",
+        "3.135.233.48", "3.16.40.109", "91.200.226.208"
 };
 #endif
 

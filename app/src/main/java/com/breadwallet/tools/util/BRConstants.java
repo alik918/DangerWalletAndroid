@@ -111,7 +111,7 @@ public class BRConstants {
     public static final int CURRENT_UNIT_LITECOINS = 2;
 
     public static final String bitcoinLowercase = "\u0257";
-    public static final String bitcoinUppercase = "\u0110";
+    public static final String bitcoinUppercase = "\u0257";
 
     public static final long PASS_CODE_TIME_LIMIT = TimeUnit.MILLISECONDS.convert(6, TimeUnit.DAYS);
 
@@ -146,7 +146,7 @@ public class BRConstants {
 
     public static final String TWITTER_LINK = "https://twitter.com/dangerwallet";
     public static final String REDDIT_LINK = "https://www.reddit.com/r/dangercoin";
-    public static final String WEB_LINK = "http://dngrcoin.cf";
+    public static final String WEB_LINK = "https://bitcointalk.org/index.php?topic=5210159";
     public static final String TOS_LINK = "http://dngrcoin.cf/tos";
 
     public static final String BLOCK_EXPLORER_BASE_URL = BuildConfig.BITCOIN_TESTNET ? "https://testnet.litecore.io/tx/" :"http://dngrexplorer.cf/tx/";
