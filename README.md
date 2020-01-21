@@ -1,8 +1,12 @@
-![download](/images/screen.png)
-![download](/images/screen2.png)
-![download](/images/screen3.png)
-![download](/images/screen4.png)
-![download](/images/screen5.png)
+![dngrwallet screen](/images/screen.png)
+
+![dngrwallet screen2](/images/screen2.png)
+
+![dngrwallet screen3](/images/screen3.png)
+
+![dngrwallet screen4](/images/screen4.png)
+
+![dngrwallet screen5](/images/screen5.png)
 
 
 For build DangerWallet need to install:
