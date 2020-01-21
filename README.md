@@ -8,6 +8,7 @@ For build DangerWallet need to install:
 6. Clone this repo:
    git clone https://github.com/dngrcoin/DangerWalletAndroid.git
 7. Create a local.properties file, specify the path to the NDK and SDK in it, for example:
+
    ndk.dir=/home/android/ndk/android-ndk-r15c
    sdk.dir=/home/android/sdk
 8. RUN:
