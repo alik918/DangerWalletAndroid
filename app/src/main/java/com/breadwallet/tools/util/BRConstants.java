@@ -111,7 +111,7 @@ public class BRConstants {
     public static final int CURRENT_UNIT_LITECOINS = 2;
 
     public static final String bitcoinLowercase = "\u0257";
-    public static final String bitcoinUppercase = "\u0257";
+    public static final String bitcoinUppercase = "\u0110";
 
     public static final long PASS_CODE_TIME_LIMIT = TimeUnit.MILLISECONDS.convert(6, TimeUnit.DAYS);
 
