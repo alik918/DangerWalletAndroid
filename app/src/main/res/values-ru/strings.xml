@@ -89,7 +89,7 @@
   <!-- Approve button label -->
   <string name="BitID.approve">Одобрить</string>
   <!-- <sitename> is requesting authentication using your bitcoin wallet -->
-  <string name="BitID.authenticationRequest">%1$s запрашивает аутентификацию, используя ваш биткойн-кошелек</string>
+  <string name="BitID.authenticationRequest">%1$s запрашивает аутентификацию, используя ваш dngrcoin-кошелек</string>
   <!-- Deny button label -->
   <string name="BitID.deny">Отказаться</string>
   <!-- BitID error alert title -->
@@ -141,7 +141,7 @@
   <!-- Word label eg. Word #1, Word #2 -->
   <string name="ConfirmPaperPhrase.word">Слово #%1$s</string>
   <!-- Litecoin denomination picker label -->
-  <string name="DefaultCurrency.litecoinLabel">Единица отображения биткойна</string>
+  <string name="DefaultCurrency.litecoinLabel">Единица отображения dngrcoin</string>
   <!-- Exchange rate label -->
   <string name="DefaultCurrency.rateLabel">Обменный курс</string>
   <!-- Email unavailable alert title -->
@@ -157,7 +157,7 @@
   <!-- Economy fee -->
   <string name="FeeSelector.economy">Экономия</string>
   <!-- E.g. [This transaction is predicted to complete in] 1-24 hours -->
-  <string name="FeeSelector.economyTime">1-24 часов</string>
+  <string name="FeeSelector.economyTime">1-5 часов</string>
   <!-- Warning message for economy fee -->
   <string name="FeeSelector.economyWarning">Этот параметр не рекомендуется для транзакций, чувствительных с точки зрения времени.</string>
   <!-- E.g. Estimated delivery: 10-60 minutes -->
@@ -165,13 +165,13 @@
   <!-- Regular fee -->
   <string name="FeeSelector.regular">Обычна сумма</string>
   <!-- E.g. [This transaction is predicted to complete in] 10-60 minutes -->
-  <string name="FeeSelector.regularTime">10-60 минут</string>
+  <string name="FeeSelector.regularTime">1.5-60 минут</string>
   <!-- Fee Selector title -->
   <string name="FeeSelector.title">Скорость обработки</string>
   <!-- Checking private key balance progress view text -->
   <string name="Import.checking">Проверяем баланс по персональному ключу...</string>
   <!-- Sweep private key confirmation message -->
-  <string name="Import.confirm">Отправить %1$s с этого персонального ключа на ваш кошелек? Биткойн-сети будет начислена плата в размере %2$s.</string>
+  <string name="Import.confirm">Отправить %1$s с этого персонального ключа на ваш кошелек? dngrcoin-сети будет начислена плата в размере %2$s.</string>
   <!-- Duplicate key error message -->
   <string name="Import.Error.duplicate">Этот персональный ключ уже находится в вашем кошельке.</string>
   <!-- empty private key error message -->
@@ -215,9 +215,9 @@
   <!-- Ignore jailbreak warning button -->
   <string name="JailbreakWarnings.ignore">Игнорировать</string>
   <!-- Jailbreak warning message -->
-  <string name="JailbreakWarnings.messageWithBalance">БЕЗОПАСНОСТЬ УСТРОЙСТВА ПОДВЕРГНУТА РИСКУ\n Какое-либо приложение по снятию ограничений с файловой системы может получить доступ к данным цепочки ключей  Danger и украсть ваши биткойны! Немедленно очистите ваш кошелек и восстановите его на безопасном устройстве.</string>
+  <string name="JailbreakWarnings.messageWithBalance">БЕЗОПАСНОСТЬ УСТРОЙСТВА ПОДВЕРГНУТА РИСКУ\n Какое-либо приложение по снятию ограничений с файловой системы может получить доступ к данным цепочки ключей  Danger и украсть ваши dngrcoin! Немедленно очистите ваш кошелек и восстановите его на безопасном устройстве.</string>
   <!-- Jailbreak warning message -->
-  <string name="JailbreakWarnings.messageWithoutBalance">БЕЗОПАСНОСТЬ УСТРОЙСТВА ПОДВЕРГНУТА РИСКУ\n Какое-либо приложение по снятию ограничений с файловой системы может получить доступ к данным цепочки ключей  Danger и украсть ваши биткойны. Пожалуйста, используйте Danger только на устройствах с не снятыми с файловой системы ограничениями.</string>
+  <string name="JailbreakWarnings.messageWithoutBalance">БЕЗОПАСНОСТЬ УСТРОЙСТВА ПОДВЕРГНУТА РИСКУ\n Какое-либо приложение по снятию ограничений с файловой системы может получить доступ к данным цепочки ключей  Danger и украсть ваши dngrcoin. Пожалуйста, используйте Danger только на устройствах с не снятыми с файловой системы ограничениями.</string>
   <!-- Jailbreak warning title -->
   <string name="JailbreakWarnings.title">ПРЕДУПРЕЖДЕНИЕ</string>
   <!-- Wipe wallet button -->
@@ -267,7 +267,7 @@
   <!-- Node status label -->
   <string name="NodeSelector.statusLabel">Состояние подключения узла</string>
   <!-- Node Selector view title -->
-  <string name="NodeSelector.title">Биткойн-узлы</string>
+  <string name="NodeSelector.title">dngrcoin-узлы</string>
   <!-- Bad Payment request alert title -->
   <string name="PaymentProtocol.Errors.badPaymentRequest">Неверный запрос на совершение платежа</string>
   <!-- Error opening payment protocol file message -->
@@ -279,9 +279,9 @@
   <!-- Payment too small alert title -->
   <string name="PaymentProtocol.Errors.smallOutputError">Не удалось выполнить платеж</string>
   <!-- Amount too small error message -->
-  <string name="PaymentProtocol.Errors.smallPayment">Размер биткоин-платежей должен превышать %1$s.</string>
+  <string name="PaymentProtocol.Errors.smallPayment">Размер dngrcoin-платежей должен превышать %1$s.</string>
   <!-- Output too small error message. -->
-  <string name="PaymentProtocol.Errors.smallTransaction">Результаты биткойн-транзакции должны превышать %1$s.</string>
+  <string name="PaymentProtocol.Errors.smallTransaction">Результаты dngrcoin-транзакции должны превышать %1$s.</string>
   <!-- Unsupported signature type payment protocol error message -->
   <string name="PaymentProtocol.Errors.unsupportedSignatureType">неподдерживаемый тип подписи</string>
   <!-- Untrusted certificate payment protocol error message -->
@@ -379,7 +379,7 @@
   <!-- extimated time -->
   <string name="ReScan.body1">20-45 минут</string>
   <!-- Syncing explanation -->
-  <string name="ReScan.body2">Если транзакция описывается как \"выполненная\" в биткойн-сети, но не в вашем Danger-кошельке.</string>
+  <string name="ReScan.body2">Если транзакция описывается как \"выполненная\" в dngrcoin-сети, но не в вашем Danger-кошельке.</string>
   <!-- Syncing explanation -->
   <string name="ReScan.body3">Вы несколько раз получили ошибку о том, что транзакция отвергнута.</string>
   <!-- Start Sync button label -->
@@ -405,7 +405,7 @@
   <!-- Security Center Info -->
   <string name="SecurityCenter.info">Активируйте все средства защиты для обеспечения максимальной безопасности.</string>
   <!-- Paper Key button description -->
-  <string name="SecurityCenter.paperKeyDescription">Единственный способ получения доступа к вашим биткойнам в случае потери или изменения вашего телефона.</string>
+  <string name="SecurityCenter.paperKeyDescription">Единственный способ получения доступа к вашим dngrcoin в случае потери или изменения вашего телефона.</string>
   <!-- Paper Key button title -->
   <string name="SecurityCenter.paperKeyTitle">Бумажный ключ</string>
   <!-- PIN button description -->
@@ -445,9 +445,9 @@
   <!-- Payee identity not certified alert title. -->
   <string name="Send.identityNotCertified">Личность получателя платежа не сертифицирована.</string>
   <!-- Invalid address alert message -->
-  <string name="Send.invalidAddressMessage">Недействительный биткоин-адрес получателя.</string>
+  <string name="Send.invalidAddressMessage">Недействительный dngrcoin-адрес получателя.</string>
   <!-- Invalid address on pasteboard message -->
-  <string name="Send.invalidAddressOnPasteboard">В буфере обмена нет действительного биткоин-адреса.</string>
+  <string name="Send.invalidAddressOnPasteboard">В буфере обмена нет действительного dngrcoin-адреса.</string>
   <!-- Invalid address alert title -->
   <string name="Send.invalidAddressTitle">Недействительный адрес</string>
   <!-- Is rescanning error message -->
@@ -473,7 +473,7 @@
   <!-- Send money to label -->
   <string name="Send.toLabel">На</string>
   <!-- Adress already used alert message - first part -->
-  <string name="Send.UsedAddress.firstLine">Биткойн-адреса предназначены исключительно для однократного использования.</string>
+  <string name="Send.UsedAddress.firstLine">dngrcoin-адреса предназначены исключительно для однократного использования.</string>
   <!-- Adress already used alert message - second part -->
   <string name="Send.UsedAddress.secondLIne">Повторное использование снижает как вашу конфиденциальность, так и конфиденциальность получателя, и может привести к потерям, если получатель не совершает непосредственный контроль за этим адресом.</string>
   <!-- Adress already used alert title -->
@@ -635,7 +635,7 @@
   <!-- "Sent [$5] to [address]" => This is the "to [address]" part. -->
   <string name="TransactionDetails.to">на %1$s</string>
   <!-- Transaction ID header -->
-  <string name="TransactionDetails.txHashHeader">ID биткоин-транзакции</string>
+  <string name="TransactionDetails.txHashHeader">ID dngrcoin-транзакции</string>
   <!-- (this transaction was) Received at this address: -->
   <string name="TransactionDirection.address">Получено на адрес:</string>
   <!-- (this transaction was) Sent to this address: -->
@@ -663,7 +663,7 @@
   <!-- Wallet unlocked message -->
   <string name="UnlockScreen.unlocked">Кошелек разблокирован</string>
   <!-- Update PIN caption text -->
-  <string name="UpdatePin.caption">Запомните этот PIN-код. Если вы его забудете, что не сможете получить доступ к вашим биткойнам.</string>
+  <string name="UpdatePin.caption">Запомните этот PIN-код. Если вы его забудете, что не сможете получить доступ к вашим dngrcoin.</string>
   <!-- PIN creation info. -->
   <string name="UpdatePin.createInstruction">Ваш PIN-код будет использоваться для разблокировки кошелька Danger и отправки денег.</string>
   <!-- Update PIN title -->
