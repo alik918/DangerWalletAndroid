@@ -3,7 +3,7 @@
 
 DangerWalletAndroid forked from loafwallet-android:
 
-https://github.com/dngrcoin/loafwallet-android/tree/losh11/today
+https://github.com/litecoin-foundation/loafwallet-android/tree/losh11/today
 
 DangerWalletAndroid-core forked from loafwallet-core:
 
