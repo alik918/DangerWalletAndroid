@@ -1,6 +1,15 @@
 ![ƀ](/images/screen.jpg)  ![ƀ](/images/screen2.jpg)  ![ƀ](/images/screen3.jpg) 
 ![ƀ](/images/screen4.jpg)  ![ƀ](/images/screen5.jpg) ![ƀ](/images/screen6.jpg)
 
+DangerWalletAndroid forked from loafwallet-android:
+
+https://github.com/dngrcoin/loafwallet-android/tree/losh11/today
+
+DangerWalletAndroid-core forked from loafwallet-core:
+
+https://github.com/litecoin-foundation/loafwallet-core/tree/10788f5b8c29503ac2df3338f5fb224c1bcdf0d7
+
+https://github.com/litecoin-foundation/loafwallet-core/tree/loaf-old
 
 For build DangerWallet need to install:
  
